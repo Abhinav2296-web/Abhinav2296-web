@@ -6,4 +6,4 @@ I'm a passionate DevOps and Cloud enthusiast who loves to explore and share know
 
 <p align="center"><img align="center"
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TuxFlat.svg/640px-TuxFlat.svg.png" alt="Linux" width="40" height="4
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TuxFlat.svg/640px-TuxFlat.svg.png" alt="Linux" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://git-scm.com/" target="_blank" rel="noreferrer"></a>
